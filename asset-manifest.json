@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/travel-journal/static/js/main.bccd92da.js",
+    "index.html": "/travel-journal/index.html",
+    "main.bccd92da.js.map": "/travel-journal/static/js/main.bccd92da.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bccd92da.js"
+  ]
+}
