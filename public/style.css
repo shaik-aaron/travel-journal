@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+* {
+      margin: 0;
+      font-family: 'Inter';
+}
+
+body {
+      background-color: #e5e5e5;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+#main {
+      background-color: white;
+      width: 550px;
+      height: 704px;
+}
+
+#header {
+      height: 55px;
+      background-color: #F55A5A;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+#globe {
+      font-size: 24px;
+      margin-right: 7px;
+      color: white;
+}
+
+h2 {
+      font-size: 14.46px;
+      color: white;
+}
+
+.travel--cards {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-top: 45px;
+}
+
+.travel--card {
+      display: flex;
+      height: 168px;
+      width: 470px;
+      margin-bottom: 36px;
+}
+
+img {
+      object-fit: cover;
+      height: 168px;
+      width: 125px;
+      margin-right: 20px;
+      border-radius: 5px;
+}
+
+.travel--desc {
+      padding-top: 20px;
+}
+
+span {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+}
+
+.location--dot {
+      color: #F55A5A;
+      height: 10px;
+      margin-right: 4px;
+}
+
+.location {
+      font-size: 10px;
+      letter-spacing: 0.17em;
+}
+
+.googleMapsUrl {
+      font-size: 10.24px;
+      color: #918E9B;
+      padding-left: 12px;
+}
+
+.title {
+      height: 40px;
+      font-size: 25px;
+      padding-top: 7px;
+}
+
+.travel--dates {
+      padding-top: 7px;
+      font-size: 10px;
+}
+
+.description {
+      padding-top: 9px;
+      font-size: 10.24px;
+}
